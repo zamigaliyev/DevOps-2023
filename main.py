@@ -22,7 +22,6 @@ def add_cli(a, b):
 
     """
     click.echo(add(a, b))
-    var=
 
 
 if __name__ == "__main__":
